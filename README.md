@@ -2,7 +2,7 @@
 El objetivo fue desarrollar un microservicio funcional utilizando el ecosistema de Spring Boot y aplicar las mejores prácticas de la industria para su empaquetado y distribución mediante contenedores, asegurando que la aplicación sea portátil y fácil de desplegar en cualquier entorno.
 
 # Desarrollo de la Aplicación (Spring Boot)
-Tecnologías: Utilicé Spring Boot 3 (o la versión que usaste) con la dependencia de Spring Web.
+Tecnologías: Utilicé Spring Boot 3 con la dependencia de Spring Web.
 
 Arquitectura: Implementé un Controller RESTful mediante la anotación @RestController.
 
